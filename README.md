@@ -1,7 +1,7 @@
 # adfpipelinegowt
 # Azure Data Factory Project
 
-This repository contains my Azure Data Factory (ADF) project inspired by Ansh Lamba’s YouTube tutorial.
+
 
 ## 🚀 Project Overview
 This project demonstrates a real-time ETL pipeline using ADF to move data from Azure Blob Storage to Azure SQL Database.
