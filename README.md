@@ -19,7 +19,7 @@ This project demonstrates a real-time ETL pipeline using ADF to move data from A
 3. Use parameters and scheduled triggers for automation
 
 ## 📸 Screenshots
-![Pipeline View](screenshots/pipeline_view.png)
+screenshot-.gitkeep
 
 ## 🎓 Learning Outcome
 This project helped me understand the practical aspects of building data pipelines using ADF and integrating multiple Azure services.
